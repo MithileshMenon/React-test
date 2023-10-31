@@ -23,7 +23,7 @@ const BodyC =() =>{
             <div className='body'>
              <div className='firstdiv'>         
                 <p  >
-                    hiii
+                    My name is mithilesh 
                    </p>
                
             </div>

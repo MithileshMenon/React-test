@@ -1,22 +1,9 @@
-/* .body {
+ .body {
+   text-align: center;
     display: flex;
     align-items: center ;
     justify-content: center;
     height: 100vh;
     flex-direction: column;
     font-style: italic;
-} */
-.firstdiv{
-    color: aqua;
-}
-
-/* .seconddiv{
-    background-color: rgb(98, 205, 212);
-    width: fit-content;
-    padding: 300px;
-}
-.p{
-    height: 200px;
-    width: 300px;
-    overflow: auto;
-}  */
+ }
